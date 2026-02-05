@@ -2,7 +2,7 @@ import './App.css';
 import { useState } from 'react';
 
 function App() {
-
+  // some comment
   const anecdotes = [
     'If it hurts, do it more often.',
     'Adding manpower to a late software project makes it later!',
